@@ -1,4 +1,4 @@
-# Jumps
+# Section Links
 
 [About Me](#About-Me)
 
@@ -20,7 +20,16 @@ public static void main(String[] args) {
   }
 ```
 
-Hey! Welcome to my page - I'm a second year CS major at UCSD, and I hope to get into machine learning and artificial intelligence sometime in my immediate future. As a programmer, it is easy to develop really bad pseudocode or describe how my code would work using functions but when it comes to actually coding with data structures and dealing with the nuances of a language, I usually do poorly. As a person, I am quite lazy until something piques my interest in which cause I immediately devote all my focus and energy into solving the problem at hand.
+Hey! Welcome to my page - I'm a second year CS major at UCSD, and I hope to get into machine learning and artificial intelligence sometime in my immediate future. As a programmer, it is easy to develop really bad pseudocode or describe how my code would work using functions but when it comes to actually coding with data structures and dealing with the nuances of a language, I usually do poorly. As a person, I am quite lazy *until something piques my interest in which cause I immediately devote all my focus and energy into solving the problem at hand*. 
+
+I eventually want to get around to working on a project where I can usually artificial intelligence to predict future trends in the stock market, but right now I do not have the prerequisite knowledge to really do that.
+
+Immediate Goals:
+
+1. Be a better "raw" programmer
+2. Work more effectively in a team environment
+3. Communicate better
+4. Join a startup?
 
 # Interests
 During my free time, I love to: 
