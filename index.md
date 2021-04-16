@@ -57,5 +57,7 @@ Favorite teams:
 4. Dodgers (only cause they're good)
 
 # Check This Out!
+
 https://www.charitywatch.org/charities/asia-foundation
+
 https://naacp.org/take-action/
