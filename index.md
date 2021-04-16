@@ -1,8 +1,8 @@
 # Jumps
 
-[About Me](# About-Me)
+[About Me](#About-Me)
 
-[Interests](# Interests)
+[Interests](#Interests)
 
 ![Kobe image](https://theundefeated.com/wp-content/uploads/2020/02/kobe-bryant-e1581599895110.jpg?w=700)
 
