@@ -6,7 +6,7 @@
 
 [Random](#Random)
 
-[Check This Out](#Check-This-Out!)
+[Check This Out](#Check-This-Out)
 
 ![Kobe Image](https://theundefeated.com/wp-content/uploads/2020/02/kobe-bryant-e1581599895110.jpg?w=700)
 
